@@ -1,6 +1,6 @@
 # 🙋‍♀️ Welcome to Esraa Mohamed's GitHub
 
-<h1 align="center">Full-Stack Developer | Open Source Enthusiast | Flutter Explorer</h1>
+<h1 align="center">Full-Stack Developer | Open Source Enthusiast | Flutter devolper</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </p>
