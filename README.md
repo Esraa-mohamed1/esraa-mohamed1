@@ -59,8 +59,7 @@
 
 ### 📚 Notable Projects
 
-- 🛍 [Ecommerce Platform (Angular & Node.js)](https://github.com/Esraa-mohamed1/Angular-Ecommerce)  
-- 💼 [Job Board (Laravel + Vue.js)](https://github.com/Esraa-mohamed1/job-board)  
+- 💼 [Job Board (Laravel + Vue.js)](https://github.com/omarokstar/job-board-laravel-api)  
 - 🏥 [Medical Portal (Django + React)](https://github.com/Esraa-mohamed1/react-medical-site)  
 - 🌍 [Adventures & Travelling Website (Vue.js)](https://github.com/Salma457/Vue-Project)  
 - 🤖 **AI-Powered Mental Health Support System** *(Graduation Project)*  
@@ -83,7 +82,7 @@
 - **Flutter Developer** – *Freelance (Ma3ak App)* – Built a Flutter e-commerce delivery app with order tracking and notifications  
 - **Site Coordinator** – *Elmentor* – Managed daily operations and coordinated schedules  
 - **Backend Developer** – *NetExperts (Riyadh)* – Developed APIs with Node.js & MongoDB  
-- **Frontend Developer** – *GDSC & Agnadin* – Developed responsive UIs in React  
+- **Frontend Developer** – *GDSC* – Developed responsive UIs in React  
 - **C++ Instructor** – *Nahda CPC* – Taught programming fundamentals and led workshops  
 
 ---
